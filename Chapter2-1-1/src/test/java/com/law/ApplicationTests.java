@@ -24,6 +24,9 @@ public class ApplicationTests {
 	@Test
 	public void test1() throws Exception {
 
+		Assert.assertEquals("程序猿law",blogProperties.getName());
+		log.info("name:"+blogProperties.getName());
+
 		log.info("随机数测试输出：");
 		log.info("随机字符串 : " + blogProperties.getValue());
 		log.info("随机int : " + blogProperties.getNumber());
