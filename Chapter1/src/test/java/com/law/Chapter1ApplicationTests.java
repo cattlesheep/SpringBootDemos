@@ -1,6 +1,6 @@
-package com.didispace;
+package com.law;
 
-import com.didispace.web.HelloController;
+import com.law.web.HelloController;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

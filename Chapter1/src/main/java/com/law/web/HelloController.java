@@ -1,4 +1,4 @@
-package com.didispace.web;
+package com.law.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
