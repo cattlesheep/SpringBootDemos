@@ -26,6 +26,7 @@ public class Application {
 		// 绑定简单配置
 		FooProperties foo = binder.bind("com.law", Bindable.of(FooProperties.class)).get();
 		System.out.println(foo.getFoo());
+		System.out.println(foo.getDatabasePlatform());
 
 		// 绑定List配置
 		List<String> post = binder.bind("com.law.post", Bindable.listOf(String.class)).get();
