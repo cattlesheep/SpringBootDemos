@@ -1,6 +1,6 @@
-org.springframework.context.ApplicationListener=com.didispace.ApplicationEnvironmentPreparedEventListener,\
-  com.didispace.ApplicationFailedEventListener,\
-  com.didispace.ApplicationPreparedEventListener,\
-  com.didispace.ApplicationReadyEventListener,\
-  com.didispace.ApplicationStartedEventListener,\
-  com.didispace.ApplicationStartingEventListener
+org.springframework.context.ApplicationListener=com.law.ApplicationEnvironmentPreparedEventListener,\
+  com.law.ApplicationFailedEventListener,\
+  com.law.ApplicationPreparedEventListener,\
+  com.law.ApplicationReadyEventListener,\
+  com.law.ApplicationStartedEventListener,\
+  com.law.ApplicationStartingEventListener
