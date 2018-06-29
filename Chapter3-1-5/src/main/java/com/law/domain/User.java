@@ -1,12 +1,12 @@
-package com.didispace.domain;
+package com.law.domain;
 
 
 
 /**
  *
- * @author 程序猿DD
+ * @author law
  * @version 1.0.0
- * @blog http://blog.didispace.com
+ * @blog http://blog.law.com
  *
  */
 public class User {

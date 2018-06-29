@@ -1,4 +1,4 @@
-package com.didispace.web;
+package com.law.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -7,9 +7,9 @@ import springfox.documentation.annotations.ApiIgnore;
 
 /**
  *
- * @author 程序猿DD
+ * @author law
  * @version 1.0.0
- * @blog http://blog.didispace.com
+ * @blog http://blog.law.com
  *
  */
 @RestController

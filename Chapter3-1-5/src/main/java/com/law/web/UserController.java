@@ -1,6 +1,6 @@
-package com.didispace.web;
+package com.law.web;
 
-import com.didispace.domain.User;
+import com.law.domain.User;
 
 import java.util.*;
 
@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.*;
 
 /**
  *
- * @author 程序猿DD
+ * @author law
  * @version 1.0.0
- * @blog http://blog.didispace.com
+ * @blog http://blog.law.com
  *
  */
 @RestController
